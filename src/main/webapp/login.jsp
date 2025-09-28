@@ -8,7 +8,7 @@
 <body>
 <div id='container'>
   <div class='signup'>
-      <form action="login" method="post">
+     <form action="loginAction.jsp" method="post">
      <input type="email" name="email" id="" placeholder="Enter your email" required>
       <input type="password" name="password" id="" placeholder="Enter your Password" required>
       <input type="submit" value="Login">
